@@ -1,0 +1,3 @@
+add-symbol-file rtx_test_ext.bin 0x10400000
+add-symbol-file rtx_loader.bin 0x10200000
+target remote localhost:5207
